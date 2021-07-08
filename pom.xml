@@ -32,7 +32,7 @@
         <uk.ac.ebi.pride-utilities.version>2.0.19-SNAPSHOT</uk.ac.ebi.pride-utilities.version>
         <jmztab.version>3.0.7</jmztab.version>
         <pride.mod.version>2.1.2</pride.mod.version>
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
     </properties>
 
 
